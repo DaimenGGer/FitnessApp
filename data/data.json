@@ -1,0 +1,52 @@
+[
+    {
+        "image": "https://i.pinimg.com/originals/09/74/d1/0974d1fc944badddf2b87e8ffa6d9419.gif",
+        "name": "Hindu push-up",
+        "id": "1"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/ca/18/59/ca18593ffc030cd217aac39358278d0e.gif",
+        "name": "Farmer's walk",
+        "id": "2"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/5e/5f/34/5e5f3440584ad66e50bce73027429e6a.gif",
+        "name": "Bear crawl",
+        "id": "3"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/6b/aa/ce/6baace34cea93399e869651ee74a0def.gif",
+        "name": "Kettlebell swings",
+        "id": "4"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/e9/be/97/e9be97ef9ef392b4966d8f078eb6ba9a.gif",
+        "name": "Reverse wall climbs",
+        "id": "5"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/77/59/50/775950ca6f1a7b41df6d67d958038a73.gif",
+        "name": "Wall slides",
+        "id": "6"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/10/db/6c/10db6c00ddaa7e580557321b855484ff.gif",
+        "name": "The inchworm",
+        "id": "7"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/e5/04/89/e5048903cb0fc98800d05091300bf8e7.gif",
+        "name": "Squat altermating lunge",
+        "id": "8"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/50/fa/bd/50fabdfecf3448cc795b01b061387e07.gif",
+        "name": "Roll back to stand up",
+        "id": "9"
+    },
+    {
+        "image": "https://i.pinimg.com/originals/47/b2/71/47b27155b136b9cd7c1b7ee76adbd383.gif",
+        "name": "Altermating superman",
+        "id": "10"
+    }
+]
