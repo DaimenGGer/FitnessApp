@@ -6,4 +6,5 @@ The app's key features include a user-friendly interface, push notifications for
 The app integrates with Firebase for user authentication, data storage, and real-time updates. This allows users to securely access their fitness data from multiple devices, and the app to provide personalized recommendations based on their activity and progress.
 
 #Screen:
+
 ![alt text](assets/img.png)
